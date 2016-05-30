@@ -225,4 +225,159 @@ LogInit: Object subsystem initialized
 [2016.05.30-23.39.16:843][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
 [2016.05.30-23.39.16:874][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
 [2016.05.30-23.39.17:374][  0]LogCrashTracker: Crashtracker disabled due to settings.
-[2016.05.30-23.39.17:
+[2016.05.30-23.39.17:430][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2016.05.30-23.39.17:512][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2016.05.30-23.39.17:513][  0]LogLoad: Full Startup: 48.83 seconds (BP compile: 1.88 seconds)
+[2016.05.30-23.39.17:513][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2016.05.30-23.39.17:852][  0]LogOcInput: OculusInput pre-init called
+[2016.05.30-23.39.17:853][  0]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'Arrow': MechAIChara_C /Game/ThirdPersonBP/Maps/DEMOmap.DEMOmap:PersistentLevel.MechAIChara_14
+[2016.05.30-23.39.17:853][  0]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'CollisionCylinder': MechAIChara_C /Game/ThirdPersonBP/Maps/DEMOmap.DEMOmap:PersistentLevel.MechAIChara_14
+[2016.05.30-23.39.17:853][  0]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'CharMoveComp': MechAIChara_C /Game/ThirdPersonBP/Maps/DEMOmap.DEMOmap:PersistentLevel.MechAIChara_14
+[2016.05.30-23.39.17:853][  0]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'CharacterMesh0': MechAIChara_C /Game/ThirdPersonBP/Maps/DEMOmap.DEMOmap:PersistentLevel.MechAIChara_14
+[2016.05.30-23.39.17:853][  0]LoadErrors:Warning: Warning CreateExport: Failed to load Outer for resource 'kriss': MechAIChara_C /Game/ThirdPersonBP/Maps/DEMOmap.DEMOmap:PersistentLevel.MechAIChara_14
+[2016.05.30-23.39.17:877][  0]LogContentStreaming: Texture pool size now 700 MB
+[2016.05.30-23.39.18:304][  0]LogRenderer: Reallocating scene render targets to support 1208x576 (Frame:2).
+[2016.05.30-23.39.19:407][  3]LogAssetRegistry: Asset discovery search completed in 30.4802 seconds
+[2016.05.30-23.39.19:466][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2016.05.30-23.39.19:615][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.207940 seconds (updated 0 objects)
+[2016.05.30-23.50.47:471][706]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.30-23.50.47:518][706]PIE: New page: PIE session: DEMOmap (May 30, 2016, 2:50:47 PM)
+[2016.05.30-23.50.47:519][706]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_DEMOmap
+[2016.05.30-23.50.47:568][706]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049739s)
+[2016.05.30-23.50.47:569][706]LogAIModule: Creating AISystem for world DEMOmap
+[2016.05.30-23.50.47:570][706]LogPlayLevel: PIE: World Init took: (0.001066s)
+[2016.05.30-23.50.47:570][706]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/DEMOmap.DEMOmap to /Game/ThirdPersonBP/Maps/UEDPIE_0_DEMOmap.DEMOmap (0.051146s)
+[2016.05.30-23.50.47:588][706]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.30-23.50.47:596][706]LogInit: FAudioDevice initialized.
+[2016.05.30-23.50.47:689][706]LogWorld: Game class is 'MechGame_C'
+[2016.05.30-23.50.47:856][706]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_DEMOmap.DEMOmap up for play (max tick rate 0) at 2016.05.30-19.50.47
+[2016.05.30-23.50.47:890][706]LogWorld: Bringing up level for play took: 0.198871
+[2016.05.30-23.50.47:902][706]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.30-23.50.47:924][706]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2016.05.30-23.50.47:936][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara10)
+[2016.05.30-23.50.47:937][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara11_4728)
+[2016.05.30-23.50.47:939][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara13_5588)
+[2016.05.30-23.50.47:940][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara15)
+[2016.05.30-23.50.47:941][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara16)
+[2016.05.30-23.50.47:942][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara2)
+[2016.05.30-23.50.47:943][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara3)
+[2016.05.30-23.50.47:945][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_17492)
+[2016.05.30-23.50.47:946][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara5)
+[2016.05.30-23.50.47:947][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara6)
+[2016.05.30-23.50.47:948][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara7)
+[2016.05.30-23.50.47:950][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara8_441)
+[2016.05.30-23.50.47:951][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara9_2811)
+[2016.05.30-23.50.47:952][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_5996)
+[2016.05.30-23.50.47:953][706]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.30-23.50.48:033][706]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_DEMOmap -0.098
+[2016.05.30-23.50.48:151][706]LogRenderer: Reallocating scene render targets to support 1208x656 (Frame:8).
+[2016.05.30-23.54.19:396][503]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/ThirdPersonBP/Maps/AiTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.05.30-23.54.19:420][503]LightingResults: New page: Lighting Build
+[2016.05.30-23.54.19:421][503]LoadErrors: New page: Loading map: AiTest.umap
+[2016.05.30-23.54.19:442][503]MapCheck: New page: Map Check
+[2016.05.30-23.54.19:442][503]LightingResults: New page: Lighting Build
+[2016.05.30-23.54.19:698][503]LogAIModule: Creating AISystem for world AiTest
+[2016.05.30-23.54.19:901][503]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.05.30-23.54.19:977][503]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.05.30-23.54.20:112][503]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 134.79ms to complete.
+[2016.05.30-23.54.20:112][503]LogFileHelpers: Loading map 'AiTest' took 0.748
+[2016.05.30-23.54.58:098][764]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.54.58:098][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.30-23.54.58:098][764]PIE: New page: PIE session: AiTest (May 30, 2016, 2:54:58 PM)
+[2016.05.30-23.54.58:098][764]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.30-23.54.58:114][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015240s)
+[2016.05.30-23.54.58:114][764]LogAIModule: Creating AISystem for world AiTest
+[2016.05.30-23.54.58:115][764]LogPlayLevel: PIE: World Init took: (0.001007s)
+[2016.05.30-23.54.58:115][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.016578s)
+[2016.05.30-23.54.58:141][764]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.30-23.54.58:150][764]LogInit: FAudioDevice initialized.
+[2016.05.30-23.54.58:216][764]LogWorld: Game class is 'MechGame_C'
+[2016.05.30-23.54.58:233][764]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-19.54.58
+[2016.05.30-23.54.58:236][764]LogWorld: Bringing up level for play took: 0.017017
+[2016.05.30-23.54.58:237][764]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.30-23.54.58:245][764]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.30-23.54.58:246][764]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.30-23.54.58:248][764]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.30-23.54.58:335][764]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest 0.2
+[2016.05.30-23.54.58:335][764]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.54.59:988][831]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint
+[2016.05.30-23.55.00:073][831]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.55.16:797][845]LogBlueprintUserMessages: [MechChara_C_0] RightOn
+[2016.05.30-23.55.16:797][845]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.16:919][853]LogScript:Warning: Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor5
+	MechChara_C /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest:PersistentLevel.MechChara_C_0
+	Function /Game/MechaInsurgent/MechaInsurgent/MechChara.MechChara_C:ExecuteUbergraph_MechChara:060D
+[2016.05.30-23.55.16:920][853]PIE:Error: Error Blueprint Runtime Error: Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor5 from function: 'ExecuteUbergraph_MechChara' from node: Launch Character in graph: EventGraph in object: MechChara with description: Accessed None trying to read property K2Node_ComponentBoundEvent_OtherActor5
+[2016.05.30-23.55.16:920][853]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.17:361][881]LogBlueprintUserMessages: [MechChara_C_0] RightOff
+[2016.05.30-23.55.17:910][915]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.19:359][  4]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.19:359][  4]LogBlueprintUserMessages: [MechChara_C_0] RightOn
+[2016.05.30-23.55.19:375][  5]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.19:408][  7]LogBlueprintUserMessages: [MechChara_C_0] RightOff
+[2016.05.30-23.55.19:673][ 24]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.22:548][206]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.22:548][206]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.22:890][228]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.23:128][243]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.23:889][291]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.27:562][522]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.27:562][522]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.27:644][527]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.28:320][570]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.28:632][590]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.30:849][732]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.30:849][732]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.30:941][738]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.32:490][835]LogBlueprintUserMessages: [MechChara_C_0] RightOn
+[2016.05.30-23.55.32:490][835]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.32:658][846]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.33:131][876]LogBlueprintUserMessages: [MechChara_C_0] RightOff
+[2016.05.30-23.55.33:655][909]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.38:832][238]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.38:832][238]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.38:923][244]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.39:350][270]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.39:914][306]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.40:389][336]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.40:389][336]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.40:503][343]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.41:033][376]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.41:489][405]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.43:173][512]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.43:174][512]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.43:581][538]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.43:791][551]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.44:577][600]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.45:135][636]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.45:135][636]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.45:274][645]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.46:989][751]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.46:989][751]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.47:212][765]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.47:923][810]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.48:201][827]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.50:052][945]LogBlueprintUserMessages: [MechChara_C_0] RightOn
+[2016.05.30-23.55.50:052][945]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.50:161][952]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.50:496][973]LogBlueprintUserMessages: [MechChara_C_0] RightOff
+[2016.05.30-23.55.51:155][ 15]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.55.52:904][126]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.52:904][126]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.53:205][145]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.55:207][274]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.55:221][275]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.55:326][282]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.57:659][433]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.55.57:659][433]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.55.57:840][445]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.55.57:953][452]LogBlueprintUserMessages: [MechChara_C_0] RightOn
+[2016.05.30-23.55.58:002][455]LogBlueprintUserMessages: [MechChara_C_0] RightOff
+[2016.05.30-23.55.58:094][461]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.55.58:828][505]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.56.02:335][727]LogBlueprintUserMessages: [MechChara_C_0] RightOn
+[2016.05.30-23.56.02:335][727]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.56.02:747][754]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.56.02:924][765]LogBlueprintUserMessages: [MechChara_C_0] RightOff
+[2016.05.30-23.56.03:734][817]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.56.04:367][857]LogBlueprintUserMessages: [Me
