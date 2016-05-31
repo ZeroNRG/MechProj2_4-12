@@ -380,4 +380,797 @@ LogInit: Object subsystem initialized
 [2016.05.30-23.56.02:747][754]LogBlueprintUserMessages: [MechChara_C_0] Hello
 [2016.05.30-23.56.02:924][765]LogBlueprintUserMessages: [MechChara_C_0] RightOff
 [2016.05.30-23.56.03:734][817]LogBlueprintUserMessages: [MechChara_C_0] 1
-[2016.05.30-23.56.04:367][857]LogBlueprintUserMessages: [Me
+[2016.05.30-23.56.04:367][857]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.56.04:413][860]LogBlueprintUserMessages: [MechChara_C_0] RightOn
+[2016.05.30-23.56.04:489][865]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.56.04:618][873]LogBlueprintUserMessages: [MechChara_C_0] RightOff
+[2016.05.30-23.56.05:484][929]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.56.05:543][933]LogBlueprintUserMessages: [MechChara_C_0] RightOn
+[2016.05.30-23.56.05:544][933]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.56.05:758][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.56.05:821][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.57.27:469][480]LogSavePackage: Save=187.61ms
+[2016.05.30-23.57.27:470][480]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/MechAI_Behavior97BB93994E23BF77180456B7E35DAD3C.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset'
+[2016.05.30-23.57.27:477][480]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset
+[2016.05.30-23.57.29:273][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.57.29:289][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.30-23.57.29:289][642]PIE: New page: PIE session: AiTest (May 30, 2016, 2:57:29 PM)
+[2016.05.30-23.57.29:289][642]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.30-23.57.29:304][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014684s)
+[2016.05.30-23.57.29:305][642]LogAIModule: Creating AISystem for world AiTest
+[2016.05.30-23.57.29:306][642]LogPlayLevel: PIE: World Init took: (0.001444s)
+[2016.05.30-23.57.29:306][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.016476s)
+[2016.05.30-23.57.29:335][642]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.30-23.57.29:344][642]LogInit: FAudioDevice initialized.
+[2016.05.30-23.57.29:402][642]LogWorld: Game class is 'MechGame_C'
+[2016.05.30-23.57.29:413][642]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-19.57.29
+[2016.05.30-23.57.29:416][642]LogWorld: Bringing up level for play took: 0.012525
+[2016.05.30-23.57.29:417][642]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.30-23.57.29:426][642]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.30-23.57.29:427][642]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.30-23.57.29:428][642]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.30-23.57.29:503][642]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest -0.633
+[2016.05.30-23.57.29:503][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.57.30:074][680]Set new viewmode: Wireframe
+[2016.05.30-23.57.30:607][706]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint
+[2016.05.30-23.57.30:607][706]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.31:098][742]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.31:605][780]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.32:419][841]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.33:388][915]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.33:924][956]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.57.33:925][956]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.57.34:018][963]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.57.34:424][993]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.35:284][ 57]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.36:097][119]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.36:289][134]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.57.36:342][138]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.57.36:479][148]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.57.36:604][157]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.57.36:787][171]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.57.37:162][199]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.37:474][222]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.57.37:967][259]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.57.38:239][279]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.39:228][349]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.40:071][411]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.40:096][413]LogBlueprintUserMessages: [MechChara_C_0] leftOn
+[2016.05.30-23.57.40:109][414]LogBlueprintUserMessages: [MechChara_C_0] wallruncollide
+[2016.05.30-23.57.40:298][428]LogBlueprintUserMessages: [MechChara_C_0] Hello
+[2016.05.30-23.57.40:553][446]LogBlueprintUserMessages: [MechChara_C_0] LeftOff
+[2016.05.30-23.57.41:177][493]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.41:295][502]LogBlueprintUserMessages: [MechChara_C_0] 1
+[2016.05.30-23.57.42:351][583]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.43:400][663]LogBlueprintUserMessages: [BTS_PatrolRoute_C_0] TargetPoint8
+[2016.05.30-23.57.44:125][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.57.44:190][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.57.51:603][353]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 111 classes and 0 folders.
+[2016.05.30-23.58.14:535][554]LogSavePackage: Save=11.67ms
+[2016.05.30-23.58.14:536][554]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/MechAI_BehaviorA42233E4466C46FBB5E408AF0B4BB617.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset'
+[2016.05.30-23.58.14:542][554]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset
+[2016.05.30-23.58.15:945][654]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.58.15:950][654]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.30-23.58.15:951][654]PIE: New page: PIE session: AiTest (May 30, 2016, 2:58:15 PM)
+[2016.05.30-23.58.15:951][654]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.30-23.58.15:966][654]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015416s)
+[2016.05.30-23.58.15:967][654]LogAIModule: Creating AISystem for world AiTest
+[2016.05.30-23.58.15:967][654]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2016.05.30-23.58.15:967][654]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.016820s)
+[2016.05.30-23.58.16:016][654]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.30-23.58.16:027][654]LogInit: FAudioDevice initialized.
+[2016.05.30-23.58.16:084][654]LogWorld: Game class is 'MechGame_C'
+[2016.05.30-23.58.16:096][654]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-19.58.16
+[2016.05.30-23.58.16:098][654]LogWorld: Bringing up level for play took: 0.011835
+[2016.05.30-23.58.16:100][654]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.30-23.58.16:108][654]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.30-23.58.16:110][654]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.30-23.58.16:111][654]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.30-23.58.16:186][654]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest 0.049
+[2016.05.30-23.58.16:186][654]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.58.16:803][695]Set new viewmode: Wireframe
+[2016.05.30-23.58.20:805][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.58.20:875][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.30-23.59.04:442][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Aim_Up_Right_001.mechinsurgentSRIGEXPORT_380_Aim_Up_Right_001
+[2016.05.30-23.59.04:445][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Aim_Left_001.mechinsurgentSRIGEXPORT_380_Aim_Left_001
+[2016.05.30-23.59.04:504][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Aim_Down_Left_001.mechinsurgentSRIGEXPORT_380_Aim_Down_Left_001
+[2016.05.30-23.59.04:514][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Idle2.mechinsurgentSRIGEXPORT_380_Idle2
+[2016.05.30-23.59.04:537][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Posses1.mechinsurgentSRIGEXPORT_380_Posses1
+[2016.05.30-23.59.04:581][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_PossesAttack.mechinsurgentSRIGEXPORT_380_PossesAttack
+[2016.05.30-23.59.04:592][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Run_Backwards.mechinsurgentSRIGEXPORT_380_Run_Backwards
+[2016.05.30-23.59.04:601][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Run_Forward.mechinsurgentSRIGEXPORT_380_Run_Forward
+[2016.05.30-23.59.04:608][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Run_Forward2.mechinsurgentSRIGEXPORT_380_Run_Forward2
+[2016.05.30-23.59.04:624][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Shoot.mechinsurgentSRIGEXPORT_380_Shoot
+[2016.05.30-23.59.04:629][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Walk_Backward2.mechinsurgentSRIGEXPORT_380_Walk_Backward2
+[2016.05.30-23.59.04:640][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Animation/mechinsurgentSRIGEXPORT_380_Walk_Forward.mechinsurgentSRIGEXPORT_380_Walk_Forward
+[2016.05.30-23.59.04:652][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/FirstPersonAnimation/HyenaFirstPerson_FP_Aim_001.HyenaFirstPerson_FP_Aim_001
+[2016.05.30-23.59.04:656][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/FirstPersonAnimation/HyenaFirstPerson_FP_Drag_Up.HyenaFirstPerson_FP_Drag_Up
+[2016.05.30-23.59.04:671][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP_Cube_000_Anim_Kriss_Idle.KrissFP_Cube_000_Anim_Kriss_Idle
+[2016.05.30-23.59.04:674][803]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP_Cube_000_Anim_Kriss_Reload.KrissFP_Cube_000_Anim_Kriss_Reload
+[2016.05.30-23.59.04:942][803]LogMaterial: Missing cached shader map for material GunGlass, compiling. 
+[2016.05.30-23.59.04:988][803]LogMaterial: Missing cached shader map for material GunRed, compiling. 
+[2016.05.30-23.59.05:609][803]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2016.05.30-23.59.05:656][803]LogMaterial: Missing cached shader map for material Material_005, compiling. 
+[2016.05.30-23.59.06:021][803]LogMaterial: Missing cached shader map for material HudTest, compiling. 
+[2016.05.30-23.59.06:084][803]LogBlueprint:Warning: [MechaHud] CreatePinForVariable: 'CurrentHealth' variable not found. Base class was probably changed.
+[2016.05.30-23.59.06:084][803]LogBlueprint:Warning: [MechaHud] CreatePinForVariable: 'MaxHealth' variable not found. Base class was probably changed.
+[2016.05.30-23.59.06:084][803]LogBlueprint:Warning: [MechaHud] CreatePinForVariable: 'MaxHealth' variable not found. Base class was probably changed.
+[2016.05.30-23.59.06:084][803]LogBlueprint:Warning: [MechaHud] CreatePinForVariable: 'CurrentHealth' variable not found. Base class was probably changed.
+[2016.05.30-23.59.06:084][803]LogBlueprint:Warning: [MechaHud] CreatePinForVariable: 'Health_Ammo Widget' variable not found. Base class was probably changed.
+[2016.05.30-23.59.06:116][803]LogLinker:Warning: Can't find file '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara'
+[2016.05.30-23.59.06:116][803]LogLinker:Warning: Can't find file for asset '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara' while loading ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/NewFolder/MechAIChara.uasset.
+[2016.05.30-23.59.06:116][803]LoadErrors:Error: Error /Game/MechaInsurgent/MechaInsurgent/NewFolder/MechAIChara : Can't find file for asset. /Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara
+[2016.05.30-23.59.06:117][803]LogLinker:Warning: Can't find file '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara'
+[2016.05.30-23.59.06:117][803]LogLinker:Warning: Can't find file for asset '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara' while loading ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/NewFolder/MechAIChara.uasset.
+[2016.05.30-23.59.06:117][803]LogLinker:Warning: Can't find file '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara'
+[2016.05.30-23.59.06:117][803]LogLinker:Warning: Can't find file for asset '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara' while loading ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/NewFolder/MechAIChara.uasset.
+[2016.05.30-23.59.06:117][803]LogLinker:Warning: Can't find file '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara'
+[2016.05.30-23.59.06:117][803]LogLinker:Warning: Can't find file for asset '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara' while loading ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/NewFolder/MechAIChara.uasset.
+[2016.05.30-23.59.06:118][803]LogLinker:Warning: Can't find file '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara'
+[2016.05.30-23.59.06:118][803]LoadErrors: Info Failed to load /Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara.Default__MechAIChara_C Referenced by Default__MechAIChara_C
+[2016.05.30-23.59.06:118][803]LogLinker:Warning: Can't find file for asset '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara' while loading NULL.
+[2016.05.30-23.59.06:118][803]LogLinker:Warning: Can't find file '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara'
+[2016.05.30-23.59.06:118][803]LoadErrors: Info Failed to load /Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara.MechAIChara Referenced by MechAIChara
+[2016.05.30-23.59.06:118][803]LogLinker:Warning: Can't find file for asset '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara' while loading NULL.
+[2016.05.30-23.59.06:118][803]LogLinker:Warning: Can't find file '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara'
+[2016.05.30-23.59.06:118][803]LoadErrors: Info Failed to load /Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara.MechAIChara_C Referenced by MechAIChara_C
+[2016.05.30-23.59.06:119][803]LogLinker:Warning: Can't find file for asset '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAIChara' while loading NULL.
+[2016.05.30-23.59.06:230][803]LogMaterial: Missing cached shader map for material 1-head, compiling. 
+[2016.05.30-23.59.07:274][803]LogMaterial: Missing cached shader map for material 1-BackBack, compiling. 
+[2016.05.30-23.59.08:372][803]LogMaterial: Missing cached shader map for material 1-Arm, compiling. 
+[2016.05.30-23.59.10:708][803]LogMaterial: Missing cached shader map for material 1-Leg, compiling. 
+[2016.05.30-23.59.12:064][803]LogMaterial: Missing cached shader map for material 1-Torso, compiling. 
+[2016.05.30-23.59.13:948][803]LogMaterial: Missing cached shader map for material Cable, compiling. 
+[2016.05.30-23.59.14:656][803]LogMaterial: Missing cached shader map for material Hand, compiling. 
+[2016.05.30-23.59.15:534][803]LogMaterial: Missing cached shader map for material Utility, compiling. 
+[2016.05.30-23.59.16:032][803]LogMaterial: Missing cached shader map for material Utility2, compiling. 
+[2016.05.30-23.59.16:532][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MyInterface/HealthInterface.
+[2016.05.30-23.59.19:187][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MechChara.
+[2016.05.30-23.59.21:040][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MechSurgAnim.
+[2016.05.30-23.59.21:062][803]LogMaterial: Missing cached shader map for material LaserMaterial, compiling. 
+[2016.05.30-23.59.22:209][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/FirstPersonAnim.
+[2016.05.30-23.59.22:317][803]LogMaterial: Missing cached shader map for material Utility, compiling. 
+[2016.05.30-23.59.22:500][803]LogMaterial: Missing cached shader map for material KrissFpMaterial, compiling. 
+[2016.05.30-23.59.22:868][803]LogMaterial: Missing cached shader map for material Gun, compiling. 
+[2016.05.30-23.59.22:981][803]LogMaterial: Missing cached shader map for material Material_002, compiling. 
+[2016.05.30-23.59.23:101][803]LogMaterial: Missing cached shader map for material Ring2, compiling. 
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator0' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator1' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator2' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator3' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator4' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::MechAi_MAX' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator0' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator1' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator2' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator3' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator4' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator0' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator1' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator2' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator3' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:131][803]LogEnum:Warning: Enum name collision: 'MechAi_State::NewEnumerator4' is in both '/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAi_State.MechAi_State' and '/Game/MechaInsurgent/MechaInsurgent/Ai/MechAi_State.MechAi_State'
+[2016.05.30-23.59.23:391][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MechGame.
+[2016.05.30-23.59.24:036][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MyInterface/HyenaHud.
+[2016.05.30-23.59.24:397][803]LogMaterial: Missing cached shader map for material 1-HandHigh, compiling. 
+[2016.05.30-23.59.24:572][803]LogMaterial: Missing cached shader map for material Material_008, compiling. 
+[2016.05.30-23.59.24:920][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_MechSense.
+[2016.05.30-23.59.24:970][803]LogBlueprint:Error: Compiler Error The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2016.05.30-23.59.25:182][803]LogBlueprint:Warning: Compiler Warning [1256.49] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 0 Warning(s) [in 250 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.30-23.59.25:216][803]LogBlueprint:Error: Compiler Error The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2016.05.30-23.59.25:637][803]LogBlueprint:Warning: Compiler Warning [1256.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 0 Warning(s) [in 444 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.30-23.59.25:637][803]LogBlueprint:Warning: Compiler Warning [1256.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.30-23.59.25:637][803]LogBlueprint:Warning: Compiler Warning [1256.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.30-23.59.25:637][803]LogBlueprint:Warning: Compiler Warning [1256.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.30-23.59.25:639][803]LogBlueprint:Warning: Compiler Warning [1256.95] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 4 Warning(s) [in 2 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.30-23.59.25:639][803]LogBlueprint:Warning: Compiler Warning [1256.95] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.30-23.59.25:668][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/BTS_PatrolRoute.
+[2016.05.30-23.59.25:967][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/Ai/MechAI_Controller.
+[2016.05.30-23.59.26:183][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MyInterface/CamShake1.
+[2016.05.30-23.59.26:981][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MechaAi.
+[2016.05.30-23.59.27:414][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/knife_actor.
+[2016.05.30-23.59.28:745][803]LogMaterial: Missing cached shader map for material GunGlass, compiling. 
+[2016.05.30-23.59.28:791][803]LogMaterial: Missing cached shader map for material GunRed, compiling. 
+[2016.05.30-23.59.29:661][803]LogMaterial: Missing cached shader map for material Material, compiling. 
+[2016.05.30-23.59.29:708][803]LogMaterial: Missing cached shader map for material Material_005, compiling. 
+[2016.05.30-23.59.30:592][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MyInterface/Health_Ammo_Bar.
+[2016.05.30-23.59.30:599][803]LogMaterial: Missing cached shader map for material HudTest, compiling. 
+[2016.05.30-23.59.30:906][803]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/MechaInsurgent/MyInterface/MechaHud.
+[2016.05.30-23.59.32:334][854]Cmd: TRANSACTION UNDO
+[2016.05.30-23.59.32:334][854]LogEditorTransaction: Undo Move Node
+[2016.05.30-23.59.39:633][155]LogAnimation:Warning: Setting an additive animation (AimOffset) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.39:670][156]LogAnimation:Warning: Setting an additive animation (Aim3) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.39:671][156]LogAnimation:Warning: Setting an additive animation (Aim) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.49:685][675]LogAnimation:Warning: Setting an additive animation (AimOffset) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.49:685][675]LogAnimation:Warning: Setting an additive animation (Aim3) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.49:686][675]LogAnimation:Warning: Setting an additive animation (Aim) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.50:350][698]LogAnimation:Warning: Setting an additive animation (AimOffset) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.50:351][698]LogAnimation:Warning: Setting an additive animation (Aim3) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.50:351][698]LogAnimation:Warning: Setting an additive animation (Aim) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.50:962][718]LogAnimation:Warning: Setting an additive animation (AimOffset) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.50:962][718]LogAnimation:Warning: Setting an additive animation (Aim3) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.50:963][718]LogAnimation:Warning: Setting an additive animation (Aim) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.30-23.59.54:757][889]Cmd: TRANSACTION UNDO
+[2016.05.30-23.59.54:757][889]LogEditorTransaction: Undo Move Nodes
+[2016.05.31-00.01.43:344][679]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.01.43:350][679]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.05.31-00.01.43:352][679]LogPlayLevel: [PlayLevel] Compiling BTS_PatrolRoute before play...
+[2016.05.31-00.01.43:376][679]LogBlueprint:Error: Compiler Error The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2016.05.31-00.01.43:634][679]LogBlueprint:Warning: Compiler Warning [1394.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 0 Warning(s) [in 271 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.01.43:634][679]LogBlueprint:Warning: Compiler Warning [1394.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.01.43:634][679]LogBlueprint:Warning: Compiler Warning [1394.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.01.43:634][679]LogBlueprint:Warning: Compiler Warning [1394.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.01.43:639][679]LogBlueprint:Warning: Compiler Warning [1394.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 4 Warning(s) [in 4 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.01.43:639][679]LogBlueprint:Warning: Compiler Warning [1394.94] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.01.43:640][679]LogPlayLevel: PlayLevel: Blueprint regeneration took 290 ms (1 blueprints)
+[2016.05.31-00.01.43:682][679]BlueprintLog: Info Blueprint BTS_PatrolRoute failed to compile
+[2016.05.31-00.01.52:581][287]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.01.52:606][287]LogBlueprint:Error: Compiler Error The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2016.05.31-00.01.52:915][287]LogBlueprint:Warning: Compiler Warning [1404.22] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 0 Warning(s) [in 334 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.01.52:915][287]BlueprintEditorCompileResults:Error: Error The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2016.05.31-00.01.52:915][287]BlueprintEditorCompileResults:Warning: Warning [1404.22] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 0 Warning(s) [in 334 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.02.09:735][691]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.02.09:939][691]BlueprintEditorCompileResults: Info [1421.24] Compile of BTS_PatrolRoute successful! [in 204 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.02.11:551][799]LogSavePackage: Save=37.26ms
+[2016.05.31-00.02.11:551][799]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTS_PatrolRouteDF30794F4281E383F77775A537D488D4.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset'
+[2016.05.31-00.02.11:558][799]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_2 or K2Node_CallFunction /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_2
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_2 or K2Node_CallFunction /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_CallFunction_2
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_2 or K2Node_CallFunction /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallFunction_2
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_2 or K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_2
+[2016.05.31-00.02.25:408][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallFunction_2.EdGraphPin_78) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_VariableSet_1774.EdGraphPin_43).  Import failed...
+[2016.05.31-00.02.25:408][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_2.EdGraphPin_78''
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallParentFunction /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_CallParentFunction_0 or K2Node_CallParentFunction /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallParentFunction_0
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallParentFunction /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_CallParentFunction_0 or K2Node_CallParentFunction /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallParentFunction_0
+[2016.05.31-00.02.25:408][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallParentFunction_0.EdGraphPin_65) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_VariableSet_1774.EdGraphPin_44).  Import failed...
+[2016.05.31-00.02.25:408][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallParentFunction_0.EdGraphPin_65''
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_1 or K2Node_CallFunction /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_CallFunction_1
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_1 or K2Node_CallFunction /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallFunction_1
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_1 or K2Node_CallFunction /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_1
+[2016.05.31-00.02.25:408][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_1 or K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_1
+[2016.05.31-00.02.25:409][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallFunction_1.EdGraphPin_76) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_VariableSet_1774.EdGraphPin_45).  Import failed...
+[2016.05.31-00.02.25:409][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_1.EdGraphPin_76''
+[2016.05.31-00.02.25:409][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:409][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_MechSense.BTS_MechSense:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:409][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:409][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Engine/Transient.PROTO_BP_Blueprint_0:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:410][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_Event_0.EdGraphPin_63) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallParentFunction_0.EdGraphPin_68).  Import failed...
+[2016.05.31-00.02.25:410][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_Event_0.EdGraphPin_63''
+[2016.05.31-00.02.25:411][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_3 or K2Node_CallFunction /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_3
+[2016.05.31-00.02.25:411][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_3 or K2Node_CallFunction /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallFunction_3
+[2016.05.31-00.02.25:411][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallFunction /Game/MechaInsurgent/Ai/BTD_AllowIfDistanceGreaterThan.BTD_AllowIfDistanceGreaterThan:PerformConditionCheckAI.K2Node_CallFunction_3 or K2Node_CallFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallFunction_3
+[2016.05.31-00.02.25:411][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallFunction_3.EdGraphPin_88) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_1.EdGraphPin_72).  Import failed...
+[2016.05.31-00.02.25:411][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallFunction_3.EdGraphPin_88''
+[2016.05.31-00.02.25:411][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_VariableGet /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_VariableGet_1899 or K2Node_VariableGet /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_VariableGet_1899
+[2016.05.31-00.02.25:411][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_VariableGet_1899.EdGraphPin_41) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_1.EdGraphPin_73).  Import failed...
+[2016.05.31-00.02.25:411][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_VariableGet_1899.EdGraphPin_41''
+[2016.05.31-00.02.25:411][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallArrayFunction /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallArrayFunction_0 or K2Node_CallArrayFunction /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallArrayFunction_0
+[2016.05.31-00.02.25:411][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallArrayFunction /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallArrayFunction_0 or K2Node_CallArrayFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallArrayFunction_0
+[2016.05.31-00.02.25:411][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallArrayFunction_0.EdGraphPin_86) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_1.EdGraphPin_74).  Import failed...
+[2016.05.31-00.02.25:411][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallArrayFunction_0.EdGraphPin_86''
+[2016.05.31-00.02.25:412][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:412][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_MechSense.BTS_MechSense:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:412][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:412][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Engine/Transient.PROTO_BP_Blueprint_0:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:412][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_Event_0.EdGraphPin_62) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_2.EdGraphPin_77).  Import failed...
+[2016.05.31-00.02.25:412][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_Event_0.EdGraphPin_62''
+[2016.05.31-00.02.25:413][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallArrayFunction /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallArrayFunction_0 or K2Node_CallArrayFunction /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallArrayFunction_0
+[2016.05.31-00.02.25:413][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_CallArrayFunction /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallArrayFunction_0 or K2Node_CallArrayFunction /Engine/Transient.PROTO_BP_Blueprint_0:UserConstructionScript.K2Node_CallArrayFunction_0
+[2016.05.31-00.02.25:413][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_CallArrayFunction_0.EdGraphPin_84) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_2.EdGraphPin_82).  Import failed...
+[2016.05.31-00.02.25:413][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_CallArrayFunction_0.EdGraphPin_84''
+[2016.05.31-00.02.25:414][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:414][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_MechSense.BTS_MechSense:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:414][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:414][204]LogUObjectHash:Warning: Ambiguous search, could be K2Node_Event /Game/MechaInsurgent/Ai/BTT_StrafeAroundPlayer.BTT_StrafeAroundPlayer:EventGraph.K2Node_Event_0 or K2Node_Event /Engine/Transient.PROTO_BP_Blueprint_0:EventGraph.K2Node_Event_0
+[2016.05.31-00.02.25:414][204]LogProperty:Warning: Illegal TEXT reference to a private object in external package (EdGraphPin /Game/MechaInsurgent/Ai/BTT_WanderToPoint.BTT_WanderToPoint:EventGraph.K2Node_Event_0.EdGraphPin_64) from referencer (EdGraphPin /Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute:EventGraph.K2Node_CallFunction_3.EdGraphPin_87).  Import failed...
+[2016.05.31-00.02.25:414][204]LogProperty:Warning: ObjectProperty /Script/Engine.EdGraphPin:LinkedTo.LinkedTo: unresolved reference to 'EdGraphPin'K2Node_Event_0.EdGraphPin_64''
+[2016.05.31-00.02.25:416][204]LogBlueprint:Warning: [BTS_PatrolRoute] CreatePinForVariable: 'Destination' variable not found. Base class was probably changed.
+[2016.05.31-00.02.25:416][204]LogBlueprint:Warning: [BTS_PatrolRoute] CreatePinForVariable: 'Destination' variable not found. Base class was probably changed.
+[2016.05.31-00.02.25:423][204]LogBlueprint:Warning: [BTS_PatrolRoute] CreatePinForVariable: 'Radius' variable not found. Base class was probably changed.
+[2016.05.31-00.03.01:582][849]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.03.01:614][849]LogBlueprint:Error: Compiler Error This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2016.05.31-00.03.01:614][849]LogBlueprint:Warning: Compiler Warning Could not find a variable named "Destination" in 'BTS_PatrolRoute_C'.
+Make sure 'BTS_PatrolRoute_C' has been compiled for  Set Destination 
+[2016.05.31-00.03.01:615][849]LogBlueprint:Error: Compiler Error The property associated with  Destination  could not be found
+[2016.05.31-00.03.01:954][849]LogBlueprint:Warning: Compiler Warning [1473.26] Compile of BTS_PatrolRoute failed. 2 Fatal Issue(s) 1 Warning(s) [in 372 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.03.01:954][849]BlueprintEditorCompileResults:Error: Error This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2016.05.31-00.03.01:955][849]BlueprintEditorCompileResults:Warning: Warning Could not find a variable named "Destination" in 'BTS_PatrolRoute_C'.
+Make sure 'BTS_PatrolRoute_C' has been compiled for  Set Destination 
+[2016.05.31-00.03.01:955][849]BlueprintEditorCompileResults:Error: Error The property associated with  Destination  could not be found
+[2016.05.31-00.03.01:955][849]BlueprintEditorCompileResults:Warning: Warning [1473.26] Compile of BTS_PatrolRoute failed. 2 Fatal Issue(s) 1 Warning(s) [in 372 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.03.02:901][911]LogSavePackage: Save=46.69ms
+[2016.05.31-00.03.02:901][911]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTS_PatrolRouteA06B0F4043E2962A32F2B591D03597B5.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset'
+[2016.05.31-00.03.02:907][911]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset
+[2016.05.31-00.03.28:970][710]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.03.29:180][710]BlueprintEditorCompileResults: Info [1500.48] Compile of BTS_PatrolRoute successful! [in 210 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.03.29:817][742]LogSavePackage: Save=47.83ms
+[2016.05.31-00.03.29:817][742]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTS_PatrolRoute286DAE6D43A040F50FB7A5BCDA37CBDD.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset'
+[2016.05.31-00.03.29:824][742]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset
+[2016.05.31-00.03.38:023][343]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.03.38:226][343]BlueprintEditorCompileResults: Info [1509.53] Compile of BTS_PatrolRoute successful! [in 202 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.03.39:040][370]LogSavePackage: Save=52.64ms
+[2016.05.31-00.03.39:040][370]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTS_PatrolRoute3AA378B74FBB4C1282CA47AD3BA2B110.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset'
+[2016.05.31-00.03.39:048][370]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset
+[2016.05.31-00.03.45:714][865]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.03.45:931][865]BlueprintEditorCompileResults: Info [1517.23] Compile of BTS_PatrolRoute successful! [in 216 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.03.46:307][882]LogSavePackage: Save=48.36ms
+[2016.05.31-00.03.46:307][882]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTS_PatrolRouteB66BD81C4C4D0BF1A9CC40BC633D3485.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset'
+[2016.05.31-00.03.46:314][882]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset
+[2016.05.31-00.04.35:295][875]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.04.35:524][875]BlueprintEditorCompileResults: Info [1566.83] Compile of BTS_PatrolRoute successful! [in 228 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.04.36:130][904]LogSavePackage: Save=49.53ms
+[2016.05.31-00.04.36:130][904]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTS_PatrolRoute5ED644C343D442E7FB824581809BA6AD.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset'
+[2016.05.31-00.04.36:138][904]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset
+[2016.05.31-00.04.37:194][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.04.37:199][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.31-00.04.37:199][954]PIE: New page: PIE session: AiTest (May 30, 2016, 3:04:37 PM)
+[2016.05.31-00.04.37:199][954]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.31-00.04.37:212][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013230s)
+[2016.05.31-00.04.37:213][954]LogAIModule: Creating AISystem for world AiTest
+[2016.05.31-00.04.37:214][954]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2016.05.31-00.04.37:214][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.014796s)
+[2016.05.31-00.04.37:251][954]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.31-00.04.37:262][954]LogInit: FAudioDevice initialized.
+[2016.05.31-00.04.37:316][954]LogWorld: Game class is 'MechGame_C'
+[2016.05.31-00.04.37:326][954]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-20.04.37
+[2016.05.31-00.04.37:329][954]LogWorld: Bringing up level for play took: 0.011831
+[2016.05.31-00.04.37:330][954]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.31-00.04.37:338][954]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.31-00.04.37:340][954]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.31-00.04.37:341][954]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.31-00.04.37:404][954]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest -0.737
+[2016.05.31-00.04.37:405][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.04.37:782][977]Set new viewmode: Wireframe
+[2016.05.31-00.04.40:176][150]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.04.40:246][150]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.05.10:952][566]LogAnimation:Warning: Setting an additive animation (FPDrage) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.05.11:260][576]LogAnimation:Warning: Setting an additive animation (FPDrage) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.05.11:391][583]LogAnimation:Warning: Setting an additive animation (FPDrage) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.05.11:466][590]LogAnimation:Warning: Setting an additive animation (FPDrage) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.05.11:688][607]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:701][608]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:725][610]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:755][613]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:755][613]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:811][618]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:812][618]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:862][623]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:862][623]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:987][628]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.11:987][628]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:094][633]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:094][633]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:178][638]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:178][638]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:257][643]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:258][643]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:341][648]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:341][648]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:417][653]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:417][653]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:496][658]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:496][658]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:728][674]LogUObjectGlobals:Warning: Failed to find object 'SkeletalMesh /Game/MechaInsurgent/MechaInsurgent/Gun/KrissFP.KrissFP_Cube_000'
+[2016.05.31-00.05.12:998][680]LogAnimation:Warning: Setting an additive animation (AimOffset) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.05.13:035][681]LogAnimation:Warning: Setting an additive animation (Aim3) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.05.13:035][681]LogAnimation:Warning: Setting an additive animation (Aim) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.06.26:923][707]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/BTT_WanderToPoint.
+[2016.05.31-00.06.49:479][ 48]LogAnimation:Warning: Setting an additive animation (AimOffset) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.06.49:479][ 48]LogAnimation:Warning: Setting an additive animation (Aim3) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.06.49:480][ 48]LogAnimation:Warning: Setting an additive animation (Aim) on an AnimSingleNodeInstance is not allowed. This will not function correctly in cooked builds!
+[2016.05.31-00.07.02:133][275]LogMetaData: Removing '/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_Patrol.SKEL_BTT_Patrol_C' ref from Metadata '/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_WanderToPoint.PackageMetaData'
+[2016.05.31-00.07.02:133][275]LogMetaData: Removing '/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_Patrol.BTT_Patrol_C' ref from Metadata '/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_WanderToPoint.PackageMetaData'
+[2016.05.31-00.07.02:212][275]LogSavePackage: Save=21.79ms
+[2016.05.31-00.07.02:212][275]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTT_Patrol7FB8CFB44CF531F3CC8B338F5DFB28B8.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_Patrol.uasset'
+[2016.05.31-00.07.02:218][275]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_Patrol.uasset
+[2016.05.31-00.07.02:503][278]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/BTT_Patrol.
+[2016.05.31-00.07.14:112][301]LogSavePackage: Save=11.58ms
+[2016.05.31-00.07.14:112][301]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/MechAI_BehaviorAB0CD3BB4502AE3C759DEA9C71529CFA.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset'
+[2016.05.31-00.07.14:118][301]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset
+[2016.05.31-00.07.20:740][889]LogSavePackage: Save=15.20ms
+[2016.05.31-00.07.20:740][889]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/MechAI_Behavior37BD8F3742E5E93D924902BBA52981E0.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset'
+[2016.05.31-00.07.20:747][889]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset
+[2016.05.31-00.07.21:987][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.07.21:998][999]BlueprintLog: New page: Pre-Play auto-recompile
+[2016.05.31-00.07.22:010][999]LogPlayLevel: [PlayLevel] Compiling BTS_PatrolRoute before play...
+[2016.05.31-00.07.22:041][999]LogBlueprint:Error: Compiler Error The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2016.05.31-00.07.22:317][999]LogBlueprint:Warning: Compiler Warning [1733.62] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 0 Warning(s) [in 293 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.07.22:317][999]LogBlueprint:Warning: Compiler Warning [1733.62] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.07.22:317][999]LogBlueprint:Warning: Compiler Warning [1733.62] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.07.22:317][999]LogBlueprint:Warning: Compiler Warning [1733.62] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 3 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.07.22:322][999]LogBlueprint:Warning: Compiler Warning [1733.62] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 4 Warning(s) [in 4 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.07.22:322][999]LogBlueprint:Warning: Compiler Warning [1733.62] Compile of BTS_PatrolRoute failed. 1 Fatal Issue(s) 5 Warning(s) [in 0 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.07.22:322][999]LogPlayLevel: PlayLevel: Blueprint regeneration took 324 ms (1 blueprints)
+[2016.05.31-00.07.22:359][999]BlueprintLog: Info Blueprint BTS_PatrolRoute failed to compile
+[2016.05.31-00.07.31:908][661]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.07.32:119][661]BlueprintEditorCompileResults: Info [1743.42] Compile of BTS_PatrolRoute successful! [in 211 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.07.35:476][993]BlueprintLog: New page: Compile BTS_PatrolRoute
+[2016.05.31-00.07.35:672][993]BlueprintEditorCompileResults: Info [1746.97] Compile of BTS_PatrolRoute successful! [in 196 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.BTS_PatrolRoute)
+[2016.05.31-00.07.36:361][ 22]LogSavePackage: Save=47.82ms
+[2016.05.31-00.07.36:361][ 22]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTS_PatrolRoute1939AB8A4A908964E3ACBCBD06BD5EC7.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset'
+[2016.05.31-00.07.36:368][ 22]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTS_PatrolRoute.uasset
+[2016.05.31-00.07.37:790][102]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.07.37:800][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.31-00.07.37:801][102]PIE: New page: PIE session: AiTest (May 30, 2016, 3:07:37 PM)
+[2016.05.31-00.07.37:801][102]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.31-00.07.37:814][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013527s)
+[2016.05.31-00.07.37:815][102]LogAIModule: Creating AISystem for world AiTest
+[2016.05.31-00.07.37:816][102]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2016.05.31-00.07.37:816][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.015100s)
+[2016.05.31-00.07.37:854][102]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.31-00.07.37:866][102]LogInit: FAudioDevice initialized.
+[2016.05.31-00.07.37:919][102]LogWorld: Game class is 'MechGame_C'
+[2016.05.31-00.07.37:932][102]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-20.07.37
+[2016.05.31-00.07.37:934][102]LogWorld: Bringing up level for play took: 0.012242
+[2016.05.31-00.07.37:936][102]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.31-00.07.37:944][102]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.31-00.07.37:945][102]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.31-00.07.37:946][102]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.31-00.07.37:999][102]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest -0.144
+[2016.05.31-00.07.37:999][102]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.07.39:052][177]Set new viewmode: Wireframe
+[2016.05.31-00.07.40:680][316]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.07.40:760][316]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.08.03:527][511]LogSavePackage: Save=19.06ms
+[2016.05.31-00.08.03:527][511]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTT_PatrolE777CC124BCCCC271D324D953661A5AB.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_Patrol.uasset'
+[2016.05.31-00.08.03:530][511]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_Patrol.uasset
+[2016.05.31-00.08.04:624][603]BlueprintLog: New page: Compile BTT_Patrol
+[2016.05.31-00.08.04:805][603]BlueprintEditorCompileResults: Info [1776.11] Compile of BTT_Patrol successful! [in 181 ms] (/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_Patrol.BTT_Patrol)
+[2016.05.31-00.08.08:447][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.08.08:457][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.31-00.08.08:457][932]PIE: New page: PIE session: AiTest (May 30, 2016, 3:08:08 PM)
+[2016.05.31-00.08.08:457][932]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.31-00.08.08:470][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013014s)
+[2016.05.31-00.08.08:471][932]LogAIModule: Creating AISystem for world AiTest
+[2016.05.31-00.08.08:472][932]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2016.05.31-00.08.08:472][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.014433s)
+[2016.05.31-00.08.08:510][932]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.31-00.08.08:518][932]LogInit: FAudioDevice initialized.
+[2016.05.31-00.08.08:574][932]LogWorld: Game class is 'MechGame_C'
+[2016.05.31-00.08.08:586][932]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-20.08.08
+[2016.05.31-00.08.08:589][932]LogWorld: Bringing up level for play took: 0.011909
+[2016.05.31-00.08.08:590][932]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.31-00.08.08:598][932]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.31-00.08.08:600][932]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.31-00.08.08:601][932]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.31-00.08.08:651][932]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest 0.508
+[2016.05.31-00.08.08:651][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.08.09:562][ 10]Set new viewmode: Wireframe
+[2016.05.31-00.08.15:899][601]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.08.15:971][601]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.08.48:827][361]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeedAndFocus.
+[2016.05.31-00.09.18:567][267]LogMetaData: Removing '/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeed.SKEL_BTT_SetWalkSpeed_C' ref from Metadata '/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeedAndFocus.PackageMetaData'
+[2016.05.31-00.09.18:567][267]LogMetaData: Removing '/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeed.BTT_SetWalkSpeed_C' ref from Metadata '/Game/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeedAndFocus.PackageMetaData'
+[2016.05.31-00.09.18:628][267]LogSavePackage: Save=24.62ms
+[2016.05.31-00.09.18:628][267]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTT_SetWalkSpeed1B0980584D7AE94363C7E4B874E3FA78.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeed.uasset'
+[2016.05.31-00.09.18:635][267]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeed.uasset
+[2016.05.31-00.09.18:908][268]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeed.
+[2016.05.31-00.09.21:582][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.09.21:592][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.31-00.09.21:592][453]PIE: New page: PIE session: AiTest (May 30, 2016, 3:09:21 PM)
+[2016.05.31-00.09.21:592][453]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.31-00.09.21:606][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013701s)
+[2016.05.31-00.09.21:607][453]LogAIModule: Creating AISystem for world AiTest
+[2016.05.31-00.09.21:607][453]LogPlayLevel: PIE: World Init took: (0.000942s)
+[2016.05.31-00.09.21:607][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.014948s)
+[2016.05.31-00.09.21:641][453]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.31-00.09.21:649][453]LogInit: FAudioDevice initialized.
+[2016.05.31-00.09.21:707][453]LogWorld: Game class is 'MechGame_C'
+[2016.05.31-00.09.21:718][453]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-20.09.21
+[2016.05.31-00.09.21:721][453]LogWorld: Bringing up level for play took: 0.012128
+[2016.05.31-00.09.21:722][453]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.31-00.09.21:731][453]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.31-00.09.21:732][453]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.31-00.09.21:733][453]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.31-00.09.21:813][453]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest -0.331
+[2016.05.31-00.09.21:813][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.09.24:128][612]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.09.24:201][612]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.09.44:113][556]LogSavePackage: Save=11.96ms
+[2016.05.31-00.09.44:113][556]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/MechAI_Behavior307B0B6B4DBE61D543AE789AB4FA31D2.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset'
+[2016.05.31-00.09.44:119][556]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset
+[2016.05.31-00.09.46:249][707]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.09.46:259][707]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.31-00.09.46:259][707]PIE: New page: PIE session: AiTest (May 30, 2016, 3:09:46 PM)
+[2016.05.31-00.09.46:260][707]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.31-00.09.46:273][707]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013646s)
+[2016.05.31-00.09.46:274][707]LogAIModule: Creating AISystem for world AiTest
+[2016.05.31-00.09.46:274][707]LogPlayLevel: PIE: World Init took: (0.001037s)
+[2016.05.31-00.09.46:275][707]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.015002s)
+[2016.05.31-00.09.46:311][707]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.31-00.09.46:318][707]LogInit: FAudioDevice initialized.
+[2016.05.31-00.09.46:377][707]LogWorld: Game class is 'MechGame_C'
+[2016.05.31-00.09.46:388][707]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-20.09.46
+[2016.05.31-00.09.46:391][707]LogWorld: Bringing up level for play took: 0.011889
+[2016.05.31-00.09.46:392][707]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.31-00.09.46:401][707]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.31-00.09.46:402][707]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.31-00.09.46:404][707]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.31-00.09.46:493][707]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest 0.348
+[2016.05.31-00.09.46:493][707]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.09.46:764][722]Set new viewmode: Wireframe
+[2016.05.31-00.09.49:156][890]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.09.49:227][890]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.10.05:750][591]LogSavePackage: Save=12.62ms
+[2016.05.31-00.10.05:750][591]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/MechAI_Behavior80E0C58841C89B1BEE3566A236D79408.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset'
+[2016.05.31-00.10.05:757][591]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset
+[2016.05.31-00.10.07:313][717]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.10.07:326][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.31-00.10.07:327][717]PIE: New page: PIE session: AiTest (May 30, 2016, 3:10:07 PM)
+[2016.05.31-00.10.07:327][717]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.31-00.10.07:341][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014027s)
+[2016.05.31-00.10.07:342][717]LogAIModule: Creating AISystem for world AiTest
+[2016.05.31-00.10.07:342][717]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2016.05.31-00.10.07:342][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.015560s)
+[2016.05.31-00.10.07:379][717]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.31-00.10.07:388][717]LogInit: FAudioDevice initialized.
+[2016.05.31-00.10.07:446][717]LogWorld: Game class is 'MechGame_C'
+[2016.05.31-00.10.07:457][717]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-20.10.07
+[2016.05.31-00.10.07:460][717]LogWorld: Bringing up level for play took: 0.011767
+[2016.05.31-00.10.07:461][717]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.31-00.10.07:469][717]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.31-00.10.07:470][717]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.31-00.10.07:472][717]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.31-00.10.07:550][717]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest -0.595
+[2016.05.31-00.10.07:550][717]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.10.07:963][742]Set new viewmode: Wireframe
+[2016.05.31-00.10.17:165][396]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.10.17:239][396]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.10.22:790][887]LogSavePackage: Save=13.25ms
+[2016.05.31-00.10.22:790][887]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/MechAI_Behavior8F3B51A24133B830DCF33B8D9E8E9894.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset'
+[2016.05.31-00.10.22:797][887]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/MechAI_Behavior.uasset
+[2016.05.31-00.10.24:573][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.10.24:583][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.05.31-00.10.24:583][  9]PIE: New page: PIE session: AiTest (May 30, 2016, 3:10:24 PM)
+[2016.05.31-00.10.24:583][  9]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest
+[2016.05.31-00.10.24:596][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013146s)
+[2016.05.31-00.10.24:597][  9]LogAIModule: Creating AISystem for world AiTest
+[2016.05.31-00.10.24:597][  9]LogPlayLevel: PIE: World Init took: (0.001130s)
+[2016.05.31-00.10.24:598][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/AiTest.AiTest to /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest (0.014586s)
+[2016.05.31-00.10.24:636][  9]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.05.31-00.10.24:645][  9]LogInit: FAudioDevice initialized.
+[2016.05.31-00.10.24:703][  9]LogWorld: Game class is 'MechGame_C'
+[2016.05.31-00.10.24:714][  9]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest.AiTest up for play (max tick rate 0) at 2016.05.30-20.10.24
+[2016.05.31-00.10.24:717][  9]LogWorld: Bringing up level for play took: 0.011863
+[2016.05.31-00.10.24:718][  9]LogSpawn:Warning: SpawnActor failed because no class was specified
+[2016.05.31-00.10.24:727][  9]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara4_1133)
+[2016.05.31-00.10.24:728][  9]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_C_0)
+[2016.05.31-00.10.24:729][  9]LogBlueprintUserMessages:Warning: SetTimer passed a bad function (Object) or object (MechChara_1688)
+[2016.05.31-00.10.24:820][  9]PIE: Info Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_AiTest 0.675
+[2016.05.31-00.10.24:820][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.10.25:172][ 30]Set new viewmode: Wireframe
+[2016.05.31-00.11.00:180][499]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.11.00:266][499]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest' with GeneratedClass '/Game/ThirdPersonBP/Maps/AiTest.AiTest_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/AiTest.AiTest:PersistentLevel.AiTest'
+[2016.05.31-00.11.09:927][250]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2016.05.31-00.11.11:274][307]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2016.05.31-00.11.11:587][321]LogSavePackage: Save=3.53ms
+[2016.05.31-00.11.11:587][321]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTT_SetWalkSpeedAndFocusB7654F8949EEEB71CADD9D9D3B9D4C1C.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeedAndFocus.uasset'
+[2016.05.31-00.11.11:592][321]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_SetWalkSpeedAndFocus.uasset
+[2016.05.31-00.11.11:603][321]LogSavePackage: Save=3.05ms
+[2016.05.31-00.11.11:603][321]LogSavePackage: Moving '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Saved/BTT_WanderToPoint652121074E80E8A3781C808B442BA9C9.tmp' to '../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_WanderToPoint.uasset'
+[2016.05.31-00.11.11:608][321]LogSavePackage:Display: Finished SavePackage ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_412/Content/MechaInsurgent/MechaInsurgent/Ai/BTT_WanderToPoint.uasset
+[2016.05.31-00.11.13:993][428]Cmd: QUIT_EDITOR
+[2016.05.31-00.11.14:175][428]LogExit: Preparing to exit.
+[2016.05.31-00.11.15:579][428]LogExit: Editor shut down
+[2016.05.31-00.11.15:580][428]LogExit: Transaction tracking system shut down
+[2016.05.31-00.11.16:507][428]LogObj: Freed 0b from 0 cluster array pools.
+[2016.05.31-00.11.16:508][428]LogExit: Object subsystem successfully closed.
+[2016.05.31-00.11.16:577][428]LogD3D11RHI: Shutdown
+[2016.05.31-00.11.16:577][428]LogD3D11RHI: CleanupD3DDevice
+[2016.05.31-00.11.16:722][428]LogD3D11RHI: ~FD3D11DynamicRHI
+[2016.05.31-00.11.16:953][428]LogModuleManager: Shutting down and abandoning module BlueprintGraph (215)
+[2016.05.31-00.11.16:953][428]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (214)
+[2016.05.31-00.11.16:953][428]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (213)
+[2016.05.31-00.11.16:958][428]LogModuleManager: Shutting down and abandoning module CrashTracker (212)
+[2016.05.31-00.11.16:958][428]LogModuleManager: Shutting down and abandoning module SceneOutliner (211)
+[2016.05.31-00.11.16:967][428]LogModuleManager: Shutting down and abandoning module WidgetCarousel (210)
+[2016.05.31-00.11.16:967][428]LogModuleManager: Shutting down and abandoning module AddContentDialog (209)
+[2016.05.31-00.11.16:970][428]LogModuleManager: Shutting down and abandoning module GameplayTags (208)
+[2016.05.31-00.11.16:970][428]LogModuleManager: Shutting down and abandoning module EditorWidgets (207)
+[2016.05.31-00.11.16:970][428]LogModuleManager: Shutting down and abandoning module CollectionManager (206)
+[2016.05.31-00.11.16:972][428]LogModuleManager: Shutting down and abandoning module StatsViewer (205)
+[2016.05.31-00.11.16:973][428]LogModuleManager: Shutting down and abandoning module FoliageEdit (204)
+[2016.05.31-00.11.16:973][428]LogModuleManager: Shutting down and abandoning module LandscapeEditor (203)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (202)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module ActorPickerMode (201)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module GeometryMode (200)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module TextureAlignMode (199)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module BspMode (198)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module HardwareSurvey (197)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (196)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module SequenceRecorder (195)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module AutomationWorker (194)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (193)
+[2016.05.31-00.11.16:990][428]LogModuleManager: Shutting down and abandoning module PlacementMode (192)
+[2016.05.31-00.11.17:002][428]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (191)
+[2016.05.31-00.11.17:016][428]LogModuleManager: Shutting down and abandoning module CharacterAI (190)
+[2016.05.31-00.11.17:016][428]LogModuleManager: Shutting down and abandoning module SmartSnapping (189)
+[2016.05.31-00.11.17:016][428]LogModuleManager: Shutting down and abandoning module SessionServices (188)
+[2016.05.31-00.11.17:016][428]LogModuleManager: Shutting down and abandoning module ViewportSnapping (187)
+[2016.05.31-00.11.17:016][428]LogModuleManager: Shutting down and abandoning module LogVisualizer (186)
+[2016.05.31-00.11.17:018][428]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (185)
+[2016.05.31-00.11.17:023][428]LogModuleManager: Shutting down and abandoning module IntroTutorials (184)
+[2016.05.31-00.11.17:026][428]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (183)
+[2016.05.31-00.11.17:026][428]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (182)
+[2016.05.31-00.11.17:026][428]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (181)
+[2016.05.31-00.11.17:026][428]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (180)
+[2016.05.31-00.11.17:107][428]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (179)
+[2016.05.31-00.11.17:107][428]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (178)
+[2016.05.31-00.11.17:107][428]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (177)
+[2016.05.31-00.11.17:107][428]LogModuleManager: Shutting down and abandoning module MergeActors (176)
+[2016.05.31-00.11.17:116][428]LogModuleManager: Shutting down and abandoning module SizeMap (175)
+[2016.05.31-00.11.17:116][428]LogModuleManager: Shutting down and abandoning module TreeMap (174)
+[2016.05.31-00.11.17:116][428]LogModuleManager: Shutting down and abandoning module ReferenceViewer (173)
+[2016.05.31-00.11.17:116][428]LogModuleManager: Shutting down and abandoning module LocalizationService (172)
+[2016.05.31-00.11.17:116][428]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (171)
+[2016.05.31-00.11.17:126][428]LogModuleManager: Shutting down and abandoning module HardwareTargeting (170)
+[2016.05.31-00.11.17:126][428]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (169)
+[2016.05.31-00.11.17:138][428]LogModuleManager: Shutting down and abandoning module UndoHistory (168)
+[2016.05.31-00.11.17:142][428]LogModuleManager: Shutting down and abandoning module UserFeedback (167)
+[2016.05.31-00.11.17:142][428]LogModuleManager: Shutting down and abandoning module XmlParser (166)
+[2016.05.31-00.11.17:143][428]LogModuleManager: Shutting down and abandoning module Blutility (165)
+[2016.05.31-00.11.17:143][428]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (164)
+[2016.05.31-00.11.17:144][428]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (163)
+[2016.05.31-00.11.17:144][428]LogModuleManager: Shutting down and abandoning module InputBindingEditor (162)
+[2016.05.31-00.11.17:154][428]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (161)
+[2016.05.31-00.11.17:154][428]LogModuleManager: Shutting down and abandoning module SettingsEditor (160)
+[2016.05.31-00.11.17:163][428]LogModuleManager: Shutting down and abandoning module ProjectLauncher (159)
+[2016.05.31-00.11.17:172][428]LogModuleManager: Shutting down and abandoning module SessionFrontend (158)
+[2016.05.31-00.11.17:181][428]LogModuleManager: Shutting down and abandoning module ProfilerClient (157)
+[2016.05.31-00.11.17:184][428]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (156)
+[2016.05.31-00.11.17:185][428]LogModuleManager: Shutting down and abandoning module DeviceManager (155)
+[2016.05.31-00.11.17:231][428]LogModuleManager: Shutting down and abandoning module AutomationController (154)
+[2016.05.31-00.11.17:240][428]LogModuleManager: Shutting down and abandoning module AutomationWindow (153)
+[2016.05.31-00.11.17:252][428]LogModuleManager: Shutting down and abandoning module Layers (152)
+[2016.05.31-00.11.17:256][428]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (151)
+[2016.05.31-00.11.17:256][428]LogModuleManager: Shutting down and abandoning module DetailCustomizations (150)
+[2016.05.31-00.11.17:260][428]LogModuleManager: Shutting down and abandoning module PackagesDialog (149)
+[2016.05.31-00.11.17:260][428]LogModuleManager: Shutting down and abandoning module Persona (148)
+[2016.05.31-00.11.17:281][428]LogModuleManager: Shutting down and abandoning module Kismet (147)
+[2016.05.31-00.11.17:281][428]LogModuleManager: Shutting down and abandoning module GraphEditor (146)
+[2016.05.31-00.11.17:281][428]LogModuleManager: Shutting down and abandoning module ClassViewer (145)
+[2016.05.31-00.11.17:284][428]LogModuleManager: Shutting down and abandoning module Toolbox (144)
+[2016.05.31-00.11.17:284][428]LogModuleManager: Shutting down and abandoning module ModuleUI (143)
+[2016.05.31-00.11.17:292][428]LogModuleManager: Shutting down and abandoning module MovieSceneTools (142)
+[2016.05.31-00.11.17:292][428]LogModuleManager: Shutting down and abandoning module OutputLog (141)
+[2016.05.31-00.11.17:292][428]LogModuleManager: Shutting down and abandoning module GammaUI (140)
+[2016.05.31-00.11.17:304][428]LogModuleManager: Shutting down and abandoning module Documentation (139)
+[2016.05.31-00.11.17:304][428]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (138)
+[2016.05.31-00.11.17:304][428]LogModuleManager: Shutting down and abandoning module AnalyticsET (137)
+[2016.05.31-00.11.17:304][428]LogModuleManager: Shutting down and abandoning module Analytics (136)
+[2016.05.31-00.11.17:305][428]LogModuleManager: Shutting down and abandoning module PortalServices (135)
+[2016.05.31-00.11.17:305][428]LogModuleManager: Shutting down and abandoning module PortalRpc (134)
+[2016.05.31-00.11.17:305][428]LogModuleManager: Shutting down and abandoning module MessagingRpc (133)
+[2016.05.31-00.11.17:305][428]LogModuleManager: Shutting down and abandoning module GameplayDebugger (132)
+[2016.05.31-00.11.17:314][428]LogModuleManager: Shutting down and abandoning module AITestSuite (131)
+[2016.05.31-00.11.17:314][428]LogModuleManager: Shutting down and abandoning module AIModule (130)
+[2016.05.31-00.11.17:314][428]LogModuleManager: Shutting down and abandoning module ProfilerService (129)
+[2016.05.31-00.11.17:565][428]LogModuleManager: Shutting down and abandoning module TaskGraph (128)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module SlateRemote (127)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module WebBrowserWidget (126)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module SteamVRController (125)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module SteamVR (124)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (123)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module OculusLibrary (122)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module OculusInput (121)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (120)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module CableComponent (119)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (118)
+[2016.05.31-00.11.17:568][428]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (117)
+[2016.05.31-00.11.17:675][428]LogModuleManager: Shutting down and abandoning module HTML5Networking (116)
+[2016.05.31-00.11.17:675][428]LogModuleManager: Shutting down and abandoning module SuperSearch (115)
+[2016.05.31-00.11.17:675][428]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (114)
+[2016.05.31-00.11.17:675][428]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (113)
+[2016.05.31-00.11.17:675][428]LogModuleManager: Shutting down and abandoning module PluginBrowser (112)
+[2016.05.31-00.11.17:705][428]LogModuleManager: Shutting down and abandoning module EpicSurvey (111)
+[2016.05.31-00.11.17:705][428]LogModuleManager: Shutting down and abandoning module DesktopPlatform (110)
+[2016.05.31-00.11.17:816][428]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (109)
+[2016.05.31-00.11.17:816][428]LogModuleManager: Shutting down and abandoning module UObjectPlugin (108)
+[2016.05.31-00.11.17:816][428]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (107)
+[2016.05.31-00.11.17:816][428]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (106)
+[2016.05.31-00.11.17:816][428]LogModuleManager: Shutting down and abandoning module SourceControl (105)
+[2016.05.31-00.11.17:817][428]LogModuleManager: Shutting down and abandoning module GitSourceControl (104)
+[2016.05.31-00.11.17:817][428]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (103)
+[2016.05.31-00.11.17:817][428]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (102)
+[2016.05.31-00.11.17:817][428]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (101)
+[2016.05.31-00.11.17:817][428]LogModuleManager: Shutting down and abandoning module MeshPaint (100)
+[2016.05.31-00.11.17:817][428]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (99)
+[2016.05.31-00.11.17:817][428]LogModuleManager: Shutting down and abandoning module HotReload (98)
+[2016.05.31-00.11.17:819][428]LogModuleManager: Shutting down and abandoning module MainFrame (97)
+[2016.05.31-00.11.17:819][428]LogModuleManager: Shutting down and abandoning module LevelEditor (96)
+[2016.05.31-00.11.17:821][428]LogModuleManager: Shutting down and abandoning module ContentBrowser (95)
+[2016.05.31-00.11.17:822][428]LogModuleManager: Shutting down and abandoning module Paper2DEditor (94)
+[2016.05.31-00.11.17:904][428]LogModuleManager: Shutting down and abandoning module UdpMessaging (93)
+[2016.05.31-00.11.18:004][428]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (92)
+[2016.05.31-00.11.18:004][428]LogModuleManager: Shutting down and abandoning module Paper2D (91)
+[2016.05.31-00.11.18:004][428]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (90)
+[2016.05.31-00.11.18:004][428]LogModuleManager: Shutting down and abandoning module Media (89)
+[2016.05.31-00.11.18:004][428]LogModuleManager: Shutting down and abandoning module WmfMedia (88)
+[2016.05.31-00.11.18:005][428]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (87)
+[2016.05.31-00.11.18:005][428]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (86)
+[2016.05.31-00.11.18:005][428]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (85)
+[2016.05.31-00.11.18:005][428]LogModuleManager: Shutting down and abandoning module VREditor (84)
+[2016.05.31-00.11.18:007][428]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (83)
+[2016.05.31-00.11.18:007][428]LogModuleManager: Shutting down and abandoning module PropertyEditor (82)
+[2016.05.31-00.11.18:007][428]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (81)
+[2016.05.31-00.11.18:007][428]LogModuleManager: Shutting down and abandoning module FunctionalTesting (80)
+[2016.05.31-00.11.18:008][428]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (79)
+[2016.05.31-00.11.18:078][428]LogModuleManager: Shutting down and abandoning module Sequencer (78)
+[2016.05.31-00.11.18:166][428]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (77)
+[2016.05.31-00.11.18:166][428]LogModuleManager: Shutting down and abandoning module MessageLog (76)
+[2016.05.31-00.11.18:166][428]LogModuleManager: Shutting down and abandoning module AssetTools (75)
+[2016.05.31-00.11.18:312][428]LogModuleManager: Shutting down and abandoning module UMGEditor (74)
+[2016.05.31-00.11.18:400][428]LogModuleManager: Shutting down and abandoning module UMG (73)
+[2016.05.31-00.11.18:400][428]LogModuleManager: Shutting down and abandoning module SlateReflector (72)
+[2016.05.31-00.11.18:408][428]LogModuleManager: Shutting down and abandoning module Slate (71)
+[2016.05.31-00.11.18:409][428]LogModuleManager: Shutting down and abandoning module EditorStyle (70)
+[2016.05.31-00.11.18:412][428]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (69)
+[2016.05.31-00.11.18:412][428]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (68)
+[2016.05.31-00.11.18:412][428]LogModuleManager: Shutting down and abandoning module XAudio2 (67)
+[2016.05.31-00.11.18:412][428]LogModuleManager: Shutting down and abandoning module Networking (65)
+[2016.05.31-00.11.18:412][428]LogModuleManager: Shutting down and abandoning module Core (64)
+[2016.05.31-00.11.18:412][428]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (63)
+[2016.05.31-00.11.18:414][428]LogModuleManager: Shutting down and abandoning module AssetRegistry (62)
+[2016.05.31-00.11.19:284][428]LogModuleManager: Shutting down and abandoning module KismetCompiler (61)
+[2016.05.31-00.11.19:284][428]LogModuleManager: Shutting down and abandoning module PhysXFormats (60)
+[2016.05.31-00.11.19:284][428]LogModuleManager: Shutting down and abandoning module MeshUtilities (59)
+[2016.05.31-00.11.19:320][428]LogModuleManager: Shutting down and abandoning module DerivedDataCache (58)
+[2016.05.31-00.11.19:354][428]LogDerivedDataCache: Shutdown
+[2016.05.31-00.11.19:355][428]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (57)
+[2016.05.31-00.11.19:355][428]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (56)
+[2016.05.31-00.11.19:364][428]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (55)
+[2016.05.31-00.11.19:364][428]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (54)
+[2016.05.31-00.11.19:372][428]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (53)
+[2016.05.31-00.11.19:372][428]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (52)
+[2016.05.31-00.11.19:372][428]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (51)
+[2016.05.31-00.11.19:372][428]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (50)
+[2016.05.31-00.11.19:373][428]LogModuleManager: Shutting down and abandoning module ImageWrapper (49)
+[2016.05.31-00.11.19:373][428]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (48)
+[2016.05.31-00.11.19:373][428]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (47)
+[2016.05.31-00.11.19:373][428]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (46)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (45)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (44)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (43)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (42)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (41)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (40)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module Messaging (39)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (38)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (37)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (36)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (35)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (34)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (33)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (32)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (31)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (30)
+[2016.05.31-00.11.19:383][428]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (29)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (28)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (27)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (26)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (25)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (24)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module TargetPlatform (23)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module InputCore (22)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module Settings (21)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (19)
+[2016.05.31-00.11.19:384][428]LogModuleManager: Shutting down and abandoning module HTTP (18)
+[2016.05.31-00.11.22:386][428]LogModuleManager: Shutting down and abandoning module XMPP (17)
+[2016.05.31-00.11.22:559][428]LogModuleManager: Shutting down and abandoning module OculusRift (16)
+[2016.05.31-00.11.22:569][428]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (15)
+[2016.05.31-00.11.22:569][428]LogModuleManager: Shutting down and abandoning module TextureCompressor (14)
+[2016.05.31-00.11.22:571][428]LogModuleManager: Shutting down and abandoning module ShaderCore (13)
+[2016.05.31-00.11.22:571][428]LogModuleManager: Shutting down and abandoning module Landscape (12)
+[2016.05.31-00.11.22:571][428]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (11)
+[2016.05.31-00.11.22:589][428]LogModuleManager: Shutting down and abandoning module OpenGLDrv (10)
+[2016.05.31-00.11.22:600][428]LogModuleManager: Shutting down and abandoning module D3D11RHI (9)
+[2016.05.31-00.11.22:601][428]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (8)
+[2016.05.31-00.11.22:601][428]LogModuleManager: Shutting down and abandoning module Renderer (7)
+[2016.05.31-00.11.22:601][428]LogModuleManager: Shutting down and abandoning module Engine (6)
+[2016.05.31-00.11.22:601][428]LogModuleManager: Shutting down and abandoning module CoreUObject (5)
+[2016.05.31-00.11.22:601][428]LogModuleManager: Shutting down and abandoning module NetworkFile (4)
+[2016.05.31-00.11.22:601][428]LogModuleManager: Shutting down and abandoning module StreamingFile (3)
+[2016.05.31-00.11.22:601][428]LogModuleManager: Shutting down and abandoning module SandboxFile (2)
+[2016.05.31-00.11.22:601][428]LogModuleManager: Shutting down and abandoning module PakFile (1)
+[2016.05.31-00.11.22:643][428]LogExit: Exiting.
+[2016.05.31-00.11.22:687][428]Log file closed, 05/30/16 20:11:22
