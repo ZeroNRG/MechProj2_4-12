@@ -1,0 +1,174 @@
+﻿Log file open, 06/17/16 21:04:46
+LogInit:Display: Running engine for game: MechProject2_4122
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1379537295) SRandInit(-1379537294).
+LogTaskGraph: Started task graph with 4 named threads and 11 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.118494
+LogInit: Version: 4.12.3-3013449+++UE4+Release-4.12
+LogInit: API Version: 2992821
+LogInit: Net Version: 3013449
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 3
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 2
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 6
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 2
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jun 14 2016 17:53:16
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.12
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: F:/Programs/Epic Games/4.12/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Using libcurl 7.41.0
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2016.06.18-01.04.46:439][  0]LogInit: Selected Device Profile: [Windows]
+[2016.06.18-01.04.46:439][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2016.06.18-01.04.46:458][  0]LogInit: Computer: Z600-PC
+[2016.06.18-01.04.46:458][  0]LogInit: User: Z600
+[2016.06.18-01.04.46:458][  0]LogInit: CPU Page size=65536, Cores=8
+[2016.06.18-01.04.46:458][  0]LogInit: High frequency timer resolution =2.597685 MHz
+[2016.06.18-01.04.46:458][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2016.06.18-01.04.46:458][  0]LogMemory: Platform Memory Stats for Windows
+[2016.06.18-01.04.46:458][  0]LogMemory: Process Physical Memory: 192.74 MB used, 192.74 MB peak
+[2016.06.18-01.04.46:458][  0]LogMemory: Process Virtual Memory: 197.21 MB used, 197.21 MB peak
+[2016.06.18-01.04.46:458][  0]LogMemory: Physical Memory: 7376.50 MB used, 12271.22 MB total
+[2016.06.18-01.04.46:458][  0]LogMemory: Virtual Memory: 522.54 MB used, 8388608.00 MB total
+[2016.06.18-01.04.46:498][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2016.06.18-01.04.47:075][  0]LogD3D11RHI: D3D11 adapters:
+[2016.06.18-01.04.47:099][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2016.06.18-01.04.47:099][  0]LogD3D11RHI:       1992/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2016.06.18-01.04.47:099][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2016.06.18-01.04.47:121][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2016.06.18-01.04.47:122][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2016.06.18-01.04.47:122][  0]LogWindows: EnumDisplayDevices:
+[2016.06.18-01.04.47:123][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2016.06.18-01.04.47:124][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2016.06.18-01.04.47:126][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2016.06.18-01.04.47:127][  0]LogWindows:    3. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2016.06.18-01.04.47:128][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2016.06.18-01.04.47:130][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2016.06.18-01.04.47:131][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2016.06.18-01.04.47:132][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2016.06.18-01.04.47:132][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2016.06.18-01.04.47:132][  0]LogD3D11RHI:   Driver Version: 361.43 (internal:10.18.13.6143, unified:361.43)
+[2016.06.18-01.04.47:132][  0]LogD3D11RHI:      Driver Date: 12-16-2015
+[2016.06.18-01.04.47:132][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2016.06.18-01.04.47:149][  0]LogD3D11RHI: Async texture creation enabled
+[2016.06.18-01.04.47:170][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2016.06.18-01.04.47:170][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_4122/Intermediate/Shaders/WorkingDirectory/10232/).
+[2016.06.18-01.04.47:170][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Z600/AppData/Local/Temp/UnrealShaderWorkingDir/1CFF93E547F7DCC79FCA479639E80B92/'.
+[2016.06.18-01.04.47:170][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2016.06.18-01.04.48:459][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2016.06.18-01.04.48:471][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2016.06.18-01.04.48:484][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2016.06.18-01.04.48:496][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2016.06.18-01.04.48:509][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2016.06.18-01.04.48:520][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2016.06.18-01.04.48:532][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2016.06.18-01.04.48:543][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2016.06.18-01.04.48:555][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2016.06.18-01.04.48:569][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2016.06.18-01.04.48:582][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2016.06.18-01.04.48:606][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2016.06.18-01.04.48:606][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2016.06.18-01.04.48:607][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2016.06.18-01.04.48:633][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2016.06.18-01.04.48:645][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2016.06.18-01.04.48:657][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2016.06.18-01.04.48:670][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2016.06.18-01.04.48:682][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2016.06.18-01.04.48:682][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2016.06.18-01.04.48:762][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2016.06.18-01.04.48:837][  0]LogDerivedDataCache: Loaded boot cache 0.07s 48MB C:/Users/Z600/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc.
+[2016.06.18-01.04.48:837][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Z600/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc
+[2016.06.18-01.04.48:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_4122/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2016.06.18-01.04.48:837][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2016.06.18-01.04.48:837][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_4122/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2016.06.18-01.04.48:837][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2016.06.18-01.04.48:864][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2016.06.18-01.04.48:876][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Z600/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2016.06.18-01.04.49:136][  0]LogInit: Selected Device Profile: [Windows]
+[2016.06.18-01.04.49:137][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2016.06.18-01.04.49:365][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2016.06.18-01.04.49:366][  0]LogMeshUtilities: No automatic mesh merging module available
+[2016.06.18-01.04.49:366][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2016.06.18-01.04.49:707][  0]LogAssetRegistry: FAssetRegistry took 0.0206 seconds to start up
+[2016.06.18-01.04.49:761][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.051240 seconds
+[2016.06.18-01.04.49:768][  0]LogUObjectArray: 28739 objects as part of root set at end of initial load.
+[2016.06.18-01.04.49:768][  0]LogUObjectAllocator: 5855624 out of 0 bytes used by permanent object pool.
+[2016.06.18-01.04.49:768][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2016.06.18-01.04.49:775][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2016.06.18-01.04.50:039][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.06.18-01.04.50:039][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2016.06.18-01.04.51:059][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2016.06.18-01.04.51:319][  0]SourceControl: Info Source control is disabled
+[2016.06.18-01.04.51:320][  0]SourceControl: Info Source control is disabled
+[2016.06.18-01.04.51:328][  0]SourceControl: Info Source control is disabled
+[2016.06.18-01.04.51:335][  0]SourceControl: Info Source control is disabled
+[2016.06.18-01.04.51:561][  0]LogEngine: Initializing Engine...
+[2016.06.18-01.04.51:562][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2016.06.18-01.04.51:562][  0]LogHMD: SteamVR failed to initialize.  Err: 110
+[2016.06.18-01.04.51:763][  0]LogAIModule: Creating AISystem for world NewWorld
+[2016.06.18-01.04.51:769][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2016.06.18-01.04.51:783][  0]LogInit: FAudioDevice initialized.
+[2016.06.18-01.04.51:813][  0]LogDerivedDataCache: Saved boot cache 0.03s 48MB C:/Users/Z600/AppData/Local/UnrealEngine/4.12/DerivedDataCache/Boot.ddc.
+[2016.06.18-01.04.51:823][  0]LogInit: Texture streaming: Enabled
+[2016.06.18-01.04.51:848][  0]LogInit: Transaction tracking system initialized
+[2016.06.18-01.04.51:870][  0]BlueprintLog: New page: Editor Load
+[2016.06.18-01.04.51:944][  0]LocalizationService: Info Localization service is disabled
+[2016.06.18-01.04.52:005][  0]LogConsoleResponse:Display: 
+[2016.06.18-01.04.52:136][  0]LogCook:Display: Max memory allowance for cook 8192mb
+[2016.06.18-01.04.52:136][  0]LogCook:Display: Mobile HDR setting 1
+[2016.06.18-01.04.52:239][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProjects/MechProj2_4-12/MechProject2_4122/Content/' took 0.03s
+[2016.06.18-01.04.52:239][  0]SourceControl: Info Source control is disabled
+[2016.06.18-01.04.52:239][  0]Cmd: MAP LOAD FILE="../../../../../../UnrealProjects/MechProj2_4-12/MechProject2_4122/Content/ThirdPersonBP/Maps/AiTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2016.06.18-01.04.52:240][  0]LightingResults: New page: Lighting Build
+[2016.06.18-01.04.52:244][  0]MapCheck: New page: Map Check
+[2016.06.18-01.04.52:244][  0]LightingResults: New page: Lighting Build
+[2016.06.18-01.04.52:770][  0]LogProperty:Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/MechaInsurgent/MechaInsurgent/Gun/UI_Debug_WeaponInventoryItem.UI_Debug_WeaponInventoryItem_C:ExecuteUbergraph_UI_Debug_WeaponInventoryItem.CallFunc_Array_Get_Item'. Unknown structure.
+[2016.06.18-01.04.53:708][  0]LogBlueprint:Error: Compiler Error  Play (None)  references an unknown sequence
+[2016.06.18-01.04.53:757][  0]LogBlueprint:Warning: Compiler Warning [0008.38] Compile of Hyena_Tp_Anim failed. 1 Fatal Issue(s) 0 Warning(s) [in 86 ms] (/Game/Hyena/Animation/Hyena_Tp_Anim.Hyena_Tp_Anim)
+[2016.06.18-01.04.53:758][  0]LogBlueprint:Warning: Compiler Warning [0008.38] Compile of Hyena_Tp_Anim failed. 1 Fatal Issue(s) 1 Warning(s) [in 0 ms] (/Game/Hyena/Animation/Hyena_Tp_Anim.Hyena_Tp_Anim)
+[2016.06.18-01.04.53:758][  0]LogBlueprint:Warning: Compiler Warning [0008.38] Compile of Hyena_Tp_Anim failed. 1 Fatal Issue(s) 2 Warning(s) [in 0 ms] (/Game/Hyena/Animation/Hyena_Tp_Anim.Hyena_Tp_Anim)
+[2016.06.18-01.04.57:563][  0]LogAIModule: Creating AISystem for world AiTest
+[2016.06.18-01.04.57:572][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2016.06.18-01.04.57:573][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2016.06.18-01.04.57:670][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 96.182ms to complete.
+[2016.06.18-01.04.57:670][  0]LogFileHelpers: Loading map 'AiTest' took 5.430
+[2016.06.18-01.04.57:904][  0]LogCollectionManager: Loaded 1 collections in 0.001937 seconds
+[2016.06.18-01.04.57:950][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProjects/MechProj2_4-12/MechProject2_4122/Saved/Collections/' took 0.01s
+[2016.06.18-01.04.57:950][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProjects/MechProj2_4-12/MechProject2_4122/Content/Developers/Z600/Collections/' took 0.01s
+[2016.06.18-01.04.57:950][  0]LogFileCache: Scanning file cache for directory 'F:/UnrealProjects/MechProj2_4-12/MechProject2_4122/Content/Collections/' took 0.01s
+[2016.06.18-01.04.57:950][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000007 seconds
+[2016.06.18-01.04.57:950][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000000 seconds
+[2016.06.18-01.04.57:963][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 2048 classes and 372 folders.
+[2016.06.18-01.04.57:968][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2016.06.18-01.04.57:968][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2016.06.18-01.04.57:968][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0006 seconds. Added 12 classes and 0 folders.
+[2016.06.18-01.04.57:973][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2016.06.18-01.04.58:023][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2016.06.18-01.04.58:028][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2016.06.18-01.04.58:1
